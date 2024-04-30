@@ -1,0 +1,20 @@
+h1{
+    color: darkblue;
+}
+
+#button1{
+    background-color: grey;
+    margin: 5px;
+}
+
+#search1{
+    width: 23em;
+}
+
+#search{
+    text-align: right;
+}
+
+input{
+    font-family: sans-serif;
+}
